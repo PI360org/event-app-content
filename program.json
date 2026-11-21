@@ -793,28 +793,7 @@
     }
   ],
   "SPEAKERS": {},
-  "SPONSORS": [
-    {
-      "l": "Premium",
-      "n": "Celonis",
-      "stand": ""
-    },
-    {
-      "l": "Premium",
-      "n": "Process Science",
-      "stand": ""
-    },
-    {
-      "l": "Premium",
-      "n": "mpmX",
-      "stand": ""
-    },
-    {
-      "l": "Key",
-      "n": "ProcessAnd",
-      "stand": ""
-    }
-  ],
+  "SPONSORS": [],
   "TRACKS": {
     "data": "Data",
     "flagshipmain": "Flagship",
@@ -838,6 +817,10 @@
     "MS4",
     "MS8"
   ],
+  "floorplan": {
+    "image": "",
+    "note": ""
+  },
   "venue": {
     "address": "Schanzenstraße 6-20, Gebäude 1.21, 51063 Köln, Germany",
     "intro": "Industry Days 2027 take place at the BASE in the Carlswerk quarter of Köln-Mülheim, a former industrial site that is now home to creative companies, culture and sport. About ten minutes on foot from Köln-Mülheim station.",
@@ -861,5 +844,5 @@
       ]
     ]
   },
-  "version": "87d88741"
+  "version": "acaa47e7"
 }
