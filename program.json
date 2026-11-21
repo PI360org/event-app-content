@@ -1,0 +1,126 @@
+{
+  "event": {
+    "address": "",
+    "city": "Köln",
+    "contactEmail": "",
+    "endDate": "2027-06-09",
+    "eventName": "PI360 Industry Days 2027",
+    "startDate": "2027-06-08",
+    "timezone": "Europe/Berlin",
+    "venueName": "BASE Köln",
+    "welcomeText": "Willkommen bei den PI360 Industry Days. Hier findest du Programm, Speaker und alle Infos."
+  },
+  "generatedAt": "2026-11-21T15:15:01.128Z",
+  "infos": [
+    {
+      "category": "Anreise",
+      "id": "i-001",
+      "sortOrder": 1,
+      "text": "Hinweise zur Anreise. Bitte durch echten Text ersetzen.",
+      "title": "Anreise mit der Bahn (Beispiel)"
+    },
+    {
+      "category": "WLAN",
+      "id": "i-002",
+      "sortOrder": 2,
+      "text": "Netzwerkname und Zugang. Bitte ergänzen.",
+      "title": "WLAN vor Ort (Beispiel)"
+    },
+    {
+      "category": "FAQ",
+      "id": "i-003",
+      "sortOrder": 3,
+      "text": "Antwort auf die häufige Frage.",
+      "title": "Gibt es Vegetarisches? (Beispiel)"
+    }
+  ],
+  "rooms": [
+    {
+      "capacity": 450,
+      "id": "r-001",
+      "location": "Erdgeschoss",
+      "name": "Hauptbühne (Beispiel)"
+    },
+    {
+      "capacity": 60,
+      "id": "r-002",
+      "location": "1. OG",
+      "name": "Workshop-Raum 1 (Beispiel)"
+    }
+  ],
+  "schemaVersion": 1,
+  "sessions": [
+    {
+      "day": "2027-06-08",
+      "description": "Begrüßung und Überblick über die zwei Tage.",
+      "end": "09:30",
+      "id": "s-001",
+      "roomId": "r-001",
+      "speakerIds": [
+        "sp-001"
+      ],
+      "start": "09:00",
+      "title": "Eröffnung (Beispiel)",
+      "track": "Plenum",
+      "type": "Keynote"
+    },
+    {
+      "day": "2027-06-08",
+      "description": "Wie ein Industrieunternehmen Prozesse transparent macht.",
+      "end": "10:15",
+      "id": "s-002",
+      "roomId": "r-001",
+      "speakerIds": [
+        "sp-002"
+      ],
+      "start": "09:30",
+      "title": "Process Intelligence in der Praxis (Beispiel)",
+      "track": "Praxis",
+      "type": "Talk"
+    },
+    {
+      "day": "2027-06-08",
+      "description": "",
+      "end": "10:45",
+      "id": "s-003",
+      "roomId": "",
+      "speakerIds": [],
+      "start": "10:15",
+      "title": "Kaffeepause (Beispiel)",
+      "track": "",
+      "type": "Break"
+    }
+  ],
+  "speakers": [
+    {
+      "bio": "Kurze Biografie in zwei bis drei Sätzen.",
+      "company": "Beispiel GmbH",
+      "id": "sp-001",
+      "linkedinUrl": "https://www.linkedin.com/in/beispiel",
+      "name": "Vorname Nachname (Beispiel)",
+      "photoUrl": "https://pi360.org/app/img/sp-001.jpg",
+      "role": "Head of Process Excellence"
+    },
+    {
+      "bio": "Kurze Biografie in zwei bis drei Sätzen.",
+      "company": "Muster AG",
+      "id": "sp-002",
+      "linkedinUrl": "",
+      "name": "Vorname Nachname (Beispiel)",
+      "photoUrl": "",
+      "role": "CIO"
+    }
+  ],
+  "sponsors": [
+    {
+      "booth": "A1",
+      "description": "Ein Satz über den Sponsor.",
+      "id": "sn-001",
+      "logoUrl": "https://pi360.org/app/img/sn-001.png",
+      "name": "Beispiel Sponsor (Beispiel)",
+      "sortOrder": 1,
+      "tier": "Gold",
+      "websiteUrl": "https://example.com"
+    }
+  ]
+}
