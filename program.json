@@ -793,7 +793,28 @@
     }
   ],
   "SPEAKERS": {},
-  "SPONSORS": [],
+  "SPONSORS": [
+    {
+      "l": "Premium",
+      "n": "Celonis",
+      "stand": ""
+    },
+    {
+      "l": "Premium",
+      "n": "Process Science",
+      "stand": ""
+    },
+    {
+      "l": "Premium",
+      "n": "mpmX",
+      "stand": ""
+    },
+    {
+      "l": "Key",
+      "n": "ProcessAnd",
+      "stand": ""
+    }
+  ],
   "TRACKS": {
     "data": "Data",
     "flagshipmain": "Flagship",
@@ -840,5 +861,5 @@
       ]
     ]
   },
-  "version": "adec3da7"
+  "version": "87d88741"
 }
