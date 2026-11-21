@@ -793,7 +793,32 @@
     }
   ],
   "SPEAKERS": {},
-  "SPONSORS": [],
+  "SPONSORS": [
+    {
+      "l": "Premium",
+      "logo": "https://pi360org.github.io/event-app-content/logos/celonis.svg",
+      "n": "Celonis",
+      "stand": ""
+    },
+    {
+      "l": "Premium",
+      "logo": "https://pi360org.github.io/event-app-content/logos/processscience.svg",
+      "n": "Process Science",
+      "stand": ""
+    },
+    {
+      "l": "Premium",
+      "logo": "https://pi360org.github.io/event-app-content/logos/mpmx.svg",
+      "n": "mpmX",
+      "stand": ""
+    },
+    {
+      "l": "Key",
+      "logo": "https://pi360org.github.io/event-app-content/logos/processand.svg",
+      "n": "ProcessAnd",
+      "stand": ""
+    }
+  ],
   "TRACKS": {
     "data": "Data",
     "flagshipmain": "Flagship",
@@ -844,5 +869,5 @@
       ]
     ]
   },
-  "version": "acaa47e7"
+  "version": "849f4327"
 }
