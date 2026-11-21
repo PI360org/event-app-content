@@ -1,126 +1,844 @@
 {
-  "event": {
-    "address": "",
-    "city": "Köln",
-    "contactEmail": "",
-    "endDate": "2027-06-09",
-    "eventName": "PI360 Industry Days 2027",
-    "startDate": "2027-06-08",
-    "timezone": "Europe/Berlin",
-    "venueName": "BASE Köln",
-    "welcomeText": "Willkommen bei den PI360 Industry Days. Hier findest du Programm, Speaker und alle Infos."
+  "DAYS": [
+    {
+      "date": "Tue 8 June",
+      "id": "d1",
+      "iso": "2027-06-08",
+      "label": "Day 1"
+    },
+    {
+      "date": "Wed 9 June",
+      "id": "d2",
+      "iso": "2027-06-09",
+      "label": "Day 2"
+    }
+  ],
+  "FAQ": [
+    [
+      "How do I get my ticket?",
+      "Tickets are linked from the PI360 website."
+    ],
+    [
+      "Can I use the app offline?",
+      "Yes. The program is stored on your phone after the first load, and your saved sessions stay on your device."
+    ],
+    [
+      "Is there Wi-Fi at the venue?",
+      "Details will follow."
+    ],
+    [
+      "Who do I contact on site?",
+      "Details will follow."
+    ]
+  ],
+  "ROOMS": {},
+  "SESSIONS": [
+    {
+      "d": "",
+      "day": "d1",
+      "e": "09:00",
+      "id": "R01",
+      "kind": "frame",
+      "room": "",
+      "s": "08:30",
+      "sp": [],
+      "t": "Registration & Welcome Coffee",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "09:30",
+      "id": "MS1",
+      "kind": "session",
+      "room": "",
+      "s": "09:00",
+      "sp": [],
+      "t": "Welcome",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "10:30",
+      "id": "MS2",
+      "kind": "session",
+      "room": "",
+      "s": "09:30",
+      "sp": [],
+      "t": "Keynote",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "10:45",
+      "id": "MS3.1",
+      "kind": "session",
+      "room": "",
+      "s": "10:30",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "11:00",
+      "id": "MS3.2",
+      "kind": "session",
+      "room": "",
+      "s": "10:45",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "11:15",
+      "id": "MS3.3",
+      "kind": "session",
+      "room": "",
+      "s": "11:00",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "11:30",
+      "id": "MS3.4",
+      "kind": "session",
+      "room": "",
+      "s": "11:15",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "11:45",
+      "id": "MS3.5",
+      "kind": "session",
+      "room": "",
+      "s": "11:30",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "12:00",
+      "id": "MS3.6",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "",
+      "day": "d1",
+      "e": "13:00",
+      "id": "R02",
+      "kind": "frame",
+      "room": "",
+      "s": "12:00",
+      "sp": [],
+      "t": "Lunch & Networking",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "13:45",
+      "id": "FS1",
+      "kind": "session",
+      "room": "",
+      "s": "13:00",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "13:45",
+      "id": "PO1",
+      "kind": "session",
+      "room": "",
+      "s": "13:00",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "13:45",
+      "id": "AI1",
+      "kind": "session",
+      "room": "",
+      "s": "13:00",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "13:45",
+      "id": "RI1",
+      "kind": "session",
+      "room": "",
+      "s": "13:00",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "13:45",
+      "id": "DA1",
+      "kind": "session",
+      "room": "",
+      "s": "13:00",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "14:30",
+      "id": "FS2",
+      "kind": "session",
+      "room": "",
+      "s": "13:45",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "14:30",
+      "id": "PO2",
+      "kind": "session",
+      "room": "",
+      "s": "13:45",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "14:30",
+      "id": "AI2",
+      "kind": "session",
+      "room": "",
+      "s": "13:45",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "14:30",
+      "id": "RI2",
+      "kind": "session",
+      "room": "",
+      "s": "13:45",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "14:30",
+      "id": "DA2",
+      "kind": "session",
+      "room": "",
+      "s": "13:45",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "",
+      "day": "d1",
+      "e": "15:00",
+      "id": "R03",
+      "kind": "frame",
+      "room": "",
+      "s": "14:30",
+      "sp": [],
+      "t": "Coffee Break / Expo",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "15:45",
+      "id": "FS3",
+      "kind": "session",
+      "room": "",
+      "s": "15:00",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "15:45",
+      "id": "PO3",
+      "kind": "session",
+      "room": "",
+      "s": "15:00",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "15:45",
+      "id": "AI3",
+      "kind": "session",
+      "room": "",
+      "s": "15:00",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "15:45",
+      "id": "RI3",
+      "kind": "session",
+      "room": "",
+      "s": "15:00",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "15:45",
+      "id": "DA3",
+      "kind": "session",
+      "room": "",
+      "s": "15:00",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "16:30",
+      "id": "FS4",
+      "kind": "session",
+      "room": "",
+      "s": "15:45",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "16:30",
+      "id": "PO4",
+      "kind": "session",
+      "room": "",
+      "s": "15:45",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "16:30",
+      "id": "AI4",
+      "kind": "session",
+      "room": "",
+      "s": "15:45",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "16:30",
+      "id": "RI4",
+      "kind": "session",
+      "room": "",
+      "s": "15:45",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "16:30",
+      "id": "DA4",
+      "kind": "session",
+      "room": "",
+      "s": "15:45",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "18:00",
+      "id": "MS4",
+      "kind": "session",
+      "room": "",
+      "s": "17:00",
+      "sp": [],
+      "t": "Panel Discussion",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "",
+      "day": "d1",
+      "e": "17:00",
+      "id": "R04",
+      "kind": "frame",
+      "room": "",
+      "s": "16:30",
+      "sp": [],
+      "t": "Break",
+      "tr": "frame"
+    },
+    {
+      "d": "",
+      "day": "d1",
+      "e": "19:30",
+      "id": "R05",
+      "kind": "frame",
+      "room": "",
+      "s": "18:00",
+      "sp": [],
+      "t": "Food Trucks",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d1",
+      "e": "20:30",
+      "id": "MS10",
+      "kind": "session",
+      "room": "",
+      "s": "19:30",
+      "sp": [],
+      "t": "Mishaps Night",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "",
+      "day": "d1",
+      "e": "22:00",
+      "id": "R07",
+      "kind": "frame",
+      "room": "",
+      "s": "18:00",
+      "sp": [],
+      "t": "Networking & DJ (Expo area)",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "09:15",
+      "id": "MS5",
+      "kind": "session",
+      "room": "",
+      "s": "09:00",
+      "sp": [],
+      "t": "Opening Day 2 / Quick Recap",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "10:15",
+      "id": "MS6",
+      "kind": "session",
+      "room": "",
+      "s": "09:15",
+      "sp": [],
+      "t": "Keynote #2",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "10:25",
+      "id": "MS7.1",
+      "kind": "session",
+      "room": "",
+      "s": "10:15",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "10:35",
+      "id": "MS7.2",
+      "kind": "session",
+      "room": "",
+      "s": "10:25",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "10:45",
+      "id": "MS7.3",
+      "kind": "session",
+      "room": "",
+      "s": "10:35",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "10:55",
+      "id": "MS7.4",
+      "kind": "session",
+      "room": "",
+      "s": "10:45",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "11:05",
+      "id": "MS7.5",
+      "kind": "session",
+      "room": "",
+      "s": "10:55",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "11:15",
+      "id": "MS7.6",
+      "kind": "session",
+      "room": "",
+      "s": "11:05",
+      "sp": [],
+      "t": "Capability pitch",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "",
+      "day": "d2",
+      "e": "11:45",
+      "id": "R08",
+      "kind": "frame",
+      "room": "",
+      "s": "11:15",
+      "sp": [],
+      "t": "Networking Break / Expo",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "12:30",
+      "id": "FS5",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "12:30",
+      "id": "PO5",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "12:30",
+      "id": "AI5",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "12:30",
+      "id": "RI5",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "12:30",
+      "id": "DA5",
+      "kind": "session",
+      "room": "",
+      "s": "11:45",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "",
+      "day": "d2",
+      "e": "13:30",
+      "id": "R09",
+      "kind": "frame",
+      "room": "",
+      "s": "12:30",
+      "sp": [],
+      "t": "Lunch & Networking",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "14:15",
+      "id": "FS6",
+      "kind": "session",
+      "room": "",
+      "s": "13:30",
+      "sp": [],
+      "t": "Flagship session",
+      "tba": true,
+      "tr": "flagshipmain"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "14:15",
+      "id": "PO6",
+      "kind": "session",
+      "room": "",
+      "s": "13:30",
+      "sp": [],
+      "t": "Process Optimization session",
+      "tba": true,
+      "tr": "processoptim"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "14:15",
+      "id": "AI6",
+      "kind": "session",
+      "room": "",
+      "s": "13:30",
+      "sp": [],
+      "t": "Process Intelligence & AI session",
+      "tba": true,
+      "tr": "processintel"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "14:15",
+      "id": "RI6",
+      "kind": "session",
+      "room": "",
+      "s": "13:30",
+      "sp": [],
+      "t": "Research & Innovation session",
+      "tba": true,
+      "tr": "researchinno"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "14:15",
+      "id": "DA6",
+      "kind": "session",
+      "room": "",
+      "s": "13:30",
+      "sp": [],
+      "t": "Data session",
+      "tba": true,
+      "tr": "data"
+    },
+    {
+      "d": "",
+      "day": "d2",
+      "e": "14:30",
+      "id": "R10",
+      "kind": "frame",
+      "room": "",
+      "s": "14:15",
+      "sp": [],
+      "t": "Coffee Break / Expo",
+      "tr": "frame"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "16:00",
+      "id": "MS8",
+      "kind": "session",
+      "room": "",
+      "s": "14:30",
+      "sp": [],
+      "t": "Hackathon: team presentations",
+      "tba": true,
+      "tr": "mainstage"
+    },
+    {
+      "d": "Details will be announced.",
+      "day": "d2",
+      "e": "16:30",
+      "id": "MS9",
+      "kind": "session",
+      "room": "",
+      "s": "16:00",
+      "sp": [],
+      "t": "Closing Keynote / Outlook 2028 & Closing",
+      "tba": true,
+      "tr": "mainstage"
+    }
+  ],
+  "SPEAKERS": {},
+  "SPONSORS": [],
+  "TRACKS": {
+    "data": "Data",
+    "flagshipmain": "Flagship",
+    "frame": "Breaks and social",
+    "mainstage": "Main Stage",
+    "processintel": "Process Intelligence & AI",
+    "processoptim": "Process Optimization",
+    "researchinno": "Research & Innovation"
   },
-  "generatedAt": "2026-11-21T15:25:50.557Z",
-  "infos": [
-    {
-      "category": "Anreise",
-      "id": "i-001",
-      "sortOrder": 1,
-      "text": "Hinweise zur Anreise. Bitte durch echten Text ersetzen.",
-      "title": "Anreise mit der Bahn (Beispiel)"
-    },
-    {
-      "category": "WLAN",
-      "id": "i-002",
-      "sortOrder": 2,
-      "text": "Netzwerkname und Zugang. Bitte ergänzen.",
-      "title": "WLAN vor Ort (Beispiel)"
-    },
-    {
-      "category": "FAQ",
-      "id": "i-003",
-      "sortOrder": 3,
-      "text": "Antwort auf die häufige Frage.",
-      "title": "Gibt es Vegetarisches? (Beispiel)"
-    }
+  "announcement": {
+    "text": "The program will be published in spring 2027. Sessions and speakers appear here as they are confirmed.",
+    "title": "Program in progress"
+  },
+  "event": {
+    "dates": "8 to 9 June 2027",
+    "name": "Industry Days 2027",
+    "place": "BASE, Cologne"
+  },
+  "featured": [
+    "MS2",
+    "MS4",
+    "MS8"
   ],
-  "rooms": [
-    {
-      "capacity": 450,
-      "id": "r-001",
-      "location": "Erdgeschoss",
-      "name": "Hauptbühne (Beispiel)"
-    },
-    {
-      "capacity": 60,
-      "id": "r-002",
-      "location": "1. OG",
-      "name": "Workshop-Raum 1 (Beispiel)"
-    }
-  ],
-  "schemaVersion": 1,
-  "sessions": [
-    {
-      "day": "2027-06-08",
-      "description": "Begrüßung und Überblick über die zwei Tage.",
-      "end": "09:30",
-      "id": "s-001",
-      "roomId": "r-001",
-      "speakerIds": [
-        "sp-001"
+  "venue": {
+    "address": "Schanzenstraße 6-20, Gebäude 1.21, 51063 Köln, Germany",
+    "intro": "Industry Days 2027 take place at the BASE in the Carlswerk quarter of Köln-Mülheim, a former industrial site that is now home to creative companies, culture and sport. About ten minutes on foot from Köln-Mülheim station.",
+    "name": "BASE",
+    "travel": [
+      [
+        "By train",
+        "ICE and IC trains stop at Köln Hbf and Köln Messe/Deutz. From there, S6, S11, RE1 or RE5 take you to Köln-Mülheim in a few minutes, then it is a 10-minute walk."
       ],
-      "start": "09:00",
-      "title": "Eröffnung (Beispiel)",
-      "track": "Plenum",
-      "type": "Keynote"
-    },
-    {
-      "day": "2027-06-08",
-      "description": "Wie ein Industrieunternehmen Prozesse transparent macht.",
-      "end": "10:15",
-      "id": "s-002",
-      "roomId": "r-001",
-      "speakerIds": [
-        "sp-002"
+      [
+        "By tram and bus",
+        "Tram 4 to Keupstraße (5 min walk), trams 13 and 18 to Bahnhof Köln-Mülheim (10 min walk), or bus 150 to Köln Carlswerkstraße (2 min walk)."
       ],
-      "start": "09:30",
-      "title": "Process Intelligence in der Praxis (Beispiel)",
-      "track": "Praxis",
-      "type": "Talk"
-    },
-    {
-      "day": "2027-06-08",
-      "description": "",
-      "end": "10:45",
-      "id": "s-003",
-      "roomId": "",
-      "speakerIds": [],
-      "start": "10:15",
-      "title": "Kaffeepause (Beispiel)",
-      "track": "",
-      "type": "Break"
-    }
-  ],
-  "speakers": [
-    {
-      "bio": "Kurze Biografie in zwei bis drei Sätzen.",
-      "company": "Beispiel GmbH",
-      "id": "sp-001",
-      "linkedinUrl": "https://www.linkedin.com/in/beispiel",
-      "name": "Vorname Nachname (Beispiel)",
-      "photoUrl": "https://pi360.org/app/img/sp-001.jpg",
-      "role": "Head of Process Excellence"
-    },
-    {
-      "bio": "Kurze Biografie in zwei bis drei Sätzen.",
-      "company": "Muster AG",
-      "id": "sp-002",
-      "linkedinUrl": "",
-      "name": "Vorname Nachname (Beispiel)",
-      "photoUrl": "",
-      "role": "CIO"
-    }
-  ],
-  "sponsors": [
-    {
-      "booth": "A1",
-      "description": "Ein Satz über den Sponsor.",
-      "id": "sn-001",
-      "logoUrl": "https://pi360.org/app/img/sn-001.png",
-      "name": "Beispiel Sponsor (Beispiel)",
-      "sortOrder": 1,
-      "tier": "Gold",
-      "websiteUrl": "https://example.com"
-    }
-  ]
+      [
+        "From Cologne/Bonn Airport (CGN)",
+        "S19, RE6 or RB27 to Köln Messe/Deutz, change to S6, S11, RE1 or RE5 to Köln-Mülheim. Plan about 40 minutes door to door, or about 20 minutes by taxi."
+      ],
+      [
+        "From Düsseldorf Airport (DUS)",
+        "RE1 or RE5 from Düsseldorf Flughafen station run directly to Köln-Mülheim in about 35 minutes. The S11 also runs direct from the terminal but takes longer."
+      ]
+    ]
+  },
+  "version": "adec3da7"
 }
