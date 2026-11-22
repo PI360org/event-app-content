@@ -42,7 +42,6 @@
       "room": "",
       "s": "08:30",
       "sp": [],
-      "sponsor": "",
       "t": "Registration & Welcome Coffee",
       "tr": "frame"
     },
@@ -55,7 +54,6 @@
       "room": "",
       "s": "09:00",
       "sp": [],
-      "sponsor": "",
       "t": "Welcome",
       "tba": true,
       "tr": "mainstage"
@@ -69,7 +67,6 @@
       "room": "",
       "s": "09:30",
       "sp": [],
-      "sponsor": "",
       "t": "Keynote",
       "tba": true,
       "tr": "mainstage"
@@ -83,7 +80,7 @@
       "room": "",
       "s": "10:30",
       "sp": [],
-      "sponsor": "S-008",
+      "sponsor": "sp-celonis",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -97,7 +94,7 @@
       "room": "",
       "s": "10:45",
       "sp": [],
-      "sponsor": "S-011",
+      "sponsor": "sp-processscien",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -111,7 +108,6 @@
       "room": "",
       "s": "11:00",
       "sp": [],
-      "sponsor": "S-013",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -125,7 +121,7 @@
       "room": "",
       "s": "11:15",
       "sp": [],
-      "sponsor": "S-016",
+      "sponsor": "sp-mpmx",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -139,7 +135,6 @@
       "room": "",
       "s": "11:30",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -153,7 +148,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -167,7 +161,6 @@
       "room": "",
       "s": "12:00",
       "sp": [],
-      "sponsor": "",
       "t": "Lunch & Networking",
       "tr": "frame"
     },
@@ -180,7 +173,6 @@
       "room": "",
       "s": "13:00",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -194,7 +186,6 @@
       "room": "",
       "s": "13:00",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -208,7 +199,6 @@
       "room": "",
       "s": "13:00",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -222,7 +212,6 @@
       "room": "",
       "s": "13:00",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -236,7 +225,6 @@
       "room": "",
       "s": "13:00",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -250,7 +238,6 @@
       "room": "",
       "s": "13:45",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -264,7 +251,6 @@
       "room": "",
       "s": "13:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -278,7 +264,6 @@
       "room": "",
       "s": "13:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -292,7 +277,6 @@
       "room": "",
       "s": "13:45",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -306,7 +290,6 @@
       "room": "",
       "s": "13:45",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -320,7 +303,6 @@
       "room": "",
       "s": "14:30",
       "sp": [],
-      "sponsor": "",
       "t": "Coffee Break / Expo",
       "tr": "frame"
     },
@@ -333,7 +315,6 @@
       "room": "",
       "s": "15:00",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -347,7 +328,6 @@
       "room": "",
       "s": "15:00",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -361,7 +341,6 @@
       "room": "",
       "s": "15:00",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -375,7 +354,6 @@
       "room": "",
       "s": "15:00",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -389,7 +367,6 @@
       "room": "",
       "s": "15:00",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -403,7 +380,6 @@
       "room": "",
       "s": "15:45",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -417,7 +393,6 @@
       "room": "",
       "s": "15:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -431,7 +406,6 @@
       "room": "",
       "s": "15:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -445,7 +419,6 @@
       "room": "",
       "s": "15:45",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -459,7 +432,6 @@
       "room": "",
       "s": "15:45",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -473,7 +445,6 @@
       "room": "",
       "s": "17:00",
       "sp": [],
-      "sponsor": "",
       "t": "Panel Discussion",
       "tba": true,
       "tr": "mainstage"
@@ -487,7 +458,6 @@
       "room": "",
       "s": "16:30",
       "sp": [],
-      "sponsor": "",
       "t": "Break",
       "tr": "frame"
     },
@@ -500,7 +470,6 @@
       "room": "",
       "s": "18:00",
       "sp": [],
-      "sponsor": "",
       "t": "Food Trucks",
       "tr": "frame"
     },
@@ -513,7 +482,6 @@
       "room": "",
       "s": "19:30",
       "sp": [],
-      "sponsor": "",
       "t": "Mishaps Night",
       "tba": true,
       "tr": "mainstage"
@@ -527,7 +495,6 @@
       "room": "",
       "s": "18:00",
       "sp": [],
-      "sponsor": "",
       "t": "Networking & DJ (Expo area)",
       "tr": "frame"
     },
@@ -540,7 +507,6 @@
       "room": "",
       "s": "09:00",
       "sp": [],
-      "sponsor": "",
       "t": "Opening Day 2 / Quick Recap",
       "tba": true,
       "tr": "mainstage"
@@ -554,7 +520,6 @@
       "room": "",
       "s": "09:15",
       "sp": [],
-      "sponsor": "",
       "t": "Keynote #2",
       "tba": true,
       "tr": "mainstage"
@@ -568,7 +533,7 @@
       "room": "",
       "s": "10:15",
       "sp": [],
-      "sponsor": "S-017",
+      "sponsor": "sp-processand",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -582,7 +547,6 @@
       "room": "",
       "s": "10:25",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -596,7 +560,6 @@
       "room": "",
       "s": "10:35",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -610,7 +573,6 @@
       "room": "",
       "s": "10:45",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -624,7 +586,6 @@
       "room": "",
       "s": "10:55",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -638,7 +599,6 @@
       "room": "",
       "s": "11:05",
       "sp": [],
-      "sponsor": "",
       "t": "Capability pitch",
       "tba": true,
       "tr": "mainstage"
@@ -652,7 +612,6 @@
       "room": "",
       "s": "11:15",
       "sp": [],
-      "sponsor": "",
       "t": "Networking Break / Expo",
       "tr": "frame"
     },
@@ -665,7 +624,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -679,7 +637,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -693,7 +650,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -707,7 +663,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -721,7 +676,6 @@
       "room": "",
       "s": "11:45",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -735,7 +689,6 @@
       "room": "",
       "s": "12:30",
       "sp": [],
-      "sponsor": "",
       "t": "Lunch & Networking",
       "tr": "frame"
     },
@@ -748,7 +701,6 @@
       "room": "",
       "s": "13:30",
       "sp": [],
-      "sponsor": "",
       "t": "Flagship session",
       "tba": true,
       "tr": "flagshipmain"
@@ -762,7 +714,6 @@
       "room": "",
       "s": "13:30",
       "sp": [],
-      "sponsor": "",
       "t": "Process Optimization session",
       "tba": true,
       "tr": "processoptim"
@@ -776,7 +727,6 @@
       "room": "",
       "s": "13:30",
       "sp": [],
-      "sponsor": "",
       "t": "Process Intelligence & AI session",
       "tba": true,
       "tr": "processintel"
@@ -790,7 +740,6 @@
       "room": "",
       "s": "13:30",
       "sp": [],
-      "sponsor": "",
       "t": "Research & Innovation session",
       "tba": true,
       "tr": "researchinno"
@@ -804,7 +753,6 @@
       "room": "",
       "s": "13:30",
       "sp": [],
-      "sponsor": "",
       "t": "Data session",
       "tba": true,
       "tr": "data"
@@ -818,7 +766,6 @@
       "room": "",
       "s": "14:15",
       "sp": [],
-      "sponsor": "",
       "t": "Coffee Break / Expo",
       "tr": "frame"
     },
@@ -831,7 +778,6 @@
       "room": "",
       "s": "14:30",
       "sp": [],
-      "sponsor": "",
       "t": "Hackathon: team presentations",
       "tba": true,
       "tr": "mainstage"
@@ -845,7 +791,6 @@
       "room": "",
       "s": "16:00",
       "sp": [],
-      "sponsor": "",
       "t": "Closing Keynote / Outlook 2028 & Closing",
       "tba": true,
       "tr": "mainstage"
@@ -854,28 +799,28 @@
   "SPEAKERS": {},
   "SPONSORS": [
     {
-      "id": "S-008",
+      "id": "sp-celonis",
       "l": "Premium",
       "logo": "https://pi360org.github.io/event-app-content/logos/celonis.svg",
       "n": "Celonis",
       "stand": ""
     },
     {
-      "id": "S-011",
+      "id": "sp-processscien",
       "l": "Premium",
       "logo": "https://pi360org.github.io/event-app-content/logos/processscience.svg",
       "n": "Process Science",
       "stand": ""
     },
     {
-      "id": "S-016",
+      "id": "sp-mpmx",
       "l": "Premium",
       "logo": "https://pi360org.github.io/event-app-content/logos/mpmx.svg",
       "n": "mpmX",
       "stand": ""
     },
     {
-      "id": "S-017",
+      "id": "sp-processand",
       "l": "Key",
       "logo": "https://pi360org.github.io/event-app-content/logos/processand.svg",
       "n": "ProcessAnd",
@@ -932,5 +877,5 @@
       ]
     ]
   },
-  "version": "162d98f1"
+  "version": "e4610727"
 }
