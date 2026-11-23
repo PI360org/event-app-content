@@ -67,7 +67,7 @@
       "room": "",
       "s": "09:30",
       "sp": [],
-      "t": "Keynote (Test)",
+      "t": "Keynote",
       "tba": true,
       "tr": "mainstage"
     },
@@ -877,5 +877,5 @@
       ]
     ]
   },
-  "version": "c974a4d0"
+  "version": "e4610727"
 }
