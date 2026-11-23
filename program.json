@@ -42,7 +42,7 @@
       "room": "",
       "s": "08:30",
       "sp": [],
-      "t": "Registration & Welcome Coffee",
+      "t": "Registration & Welcome Coffee (TEST APP)",
       "tr": "frame"
     },
     {
@@ -877,5 +877,5 @@
       ]
     ]
   },
-  "version": "e4610727"
+  "version": "12cea9d1"
 }
